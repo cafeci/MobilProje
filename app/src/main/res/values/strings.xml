@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Veresiye Defteri</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Veresiye Defteri</string>
+    <string name="nav_header_subtitle">Fatih NİYAZOĞLU</string>
+    <string name="nav_header_desc">Menü</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="_0_00_tl">0,00-TL</string>
+    <string name="bor_ekle">Borç Ekle</string>
+    <string name="bor_d">Borç Düş</string>
+    <string name="textview">TextView</string>
+    <string name="id">ID</string>
+    <string name="g_ncelle">Güncelle</string>
+    <string name="telefon">Telefon</string>
+    <string name="adres">Adres</string>
+    <string name="tutar">Tutar</string>
+    <string name="ad_soyad">Ad Soyad</string>
+</resources>

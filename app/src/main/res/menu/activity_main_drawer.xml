@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Ana Sayfa" />
+        <item
+            android:id="@+id/nav_veresiye"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Veresiye" />
+        <item
+            android:id="@+id/nav_arama"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Ara" />
+        <item
+            android:id="@+id/nav_yenikisiekle"
+            android:icon="@drawable/ic_person_add_black_24dp"
+            android:title="Yeni Ekle" />
+    </group>
+
+    <item android:title="Diğer">
+        <menu>
+
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Çıkış" />
+        </menu>
+    </item>
+
+</menu>
